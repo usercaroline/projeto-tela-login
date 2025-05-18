@@ -12,7 +12,8 @@ Criar uma tela de login clara e intuitiva para facilitar o acesso do usuário, c
 
 ## ✍️ Imagem da Tela de Login
 
-![Tela de Login]([imagens/meusprojetos/projeto-tela-login/darklogin.png](https://github.com/usercaroline/projeto-tela-login/blob/main/darklogin.png))
+![Tela de Login](./imagens/meusprojetos/projeto-tela-login/darklogin.png)
+
 
 ---
 
